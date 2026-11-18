@@ -22,7 +22,9 @@ Se usa la numeración del diagrama general: CU07 Usuarios y CU08 Citas. Sus espe
 La guía explica relaciones, no es una auditoría. Referencia documental significa que no se atribuye al código una secuencia que solo aparece en el PDF. Los enlaces a GitHub están fijados al commit revisado. Para actualizar el contenido debe revisarse una nueva versión del repositorio y actualizar datos.js.
 
 ## Diagramas de secuencia
-Cada CU tiene su propia pestaña «Diagrama de secuencia», vinculada a su imagen original en assets/secuencias/. El visor permite ampliar, reducir, ajustar al ancho, ver el tamaño original y descargar el PNG. Se cierra con la cruz o con Escape.
+Cada CU tiene su propia pestaña «Diagrama de secuencia», vinculada a su imagen original en assets/secuencias/. El visor permite ampliar, reducir, ajustar al ancho, ver el tamaño original y descargar la imagen. Se cierra con la cruz o con Escape.
 
 ## Integrar en el repositorio y Vercel
 Reemplazá la carpeta pp1-guia del repositorio por la de este ZIP, conservando la carpeta .git de tu repositorio. Realizá commit y push a main. Si Vercel está conectado a esa rama, desplegará el cambio automáticamente. La Root Directory debe ser pp1-guia (la carpeta que contiene index.html). No se necesita compilación ni dependencias.
+
+Diagramas de secuencia actualizados con las ocho imágenes recibidas el 18/11/2026. Se conservan sus archivos originales, sin modificar su contenido.
